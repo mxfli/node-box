@@ -1,0 +1,33 @@
+{
+  "name": "node-box",
+  "discriptions": "Node.JS dev suite.",
+  "version": "0.1.0",
+  "authour": "Inaction <Inaction.me@gmail.com> http://inaction.me",
+  "dependencies": {},
+  "engines": "node >= 0.10.x",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  },
+  "description": "This is a __\"BOX\"__ filled with my nodejs _util scripts_ and _practice tips_ or _articles_.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxfli/node-box.git"
+  },
+  "keywords": [
+    "dev",
+    "tools"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxfli/node-box/issues"
+  },
+  "homepage": "https://github.com/mxfli/node-box"
+}
